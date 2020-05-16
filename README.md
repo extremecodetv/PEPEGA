@@ -1,7 +1,7 @@
 # PEPEGA
 <img src="https://user-images.githubusercontent.com/16631907/82127301-af6d5a00-97dc-11ea-95fe-d2332af00d7b.png" width="300">
 
-> Правильный стандарт PEP для Python.
+> Правильный PEP для Python.
 
 Этот документ описывает соглашение о том, как писать код для языка Python
 
